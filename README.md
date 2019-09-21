@@ -6,7 +6,7 @@ Learning go with gaming, thanks to https://gameswithgo.org/
 
 - Go installed in your system (check [this](https://golang.org/doc/install) link for more details). 
 
-## Steps to Run inside CodeMix
+## Steps to Run
 
 1. Open `main.go` file.
-2. Run main.go.
+2. go run main.go.
