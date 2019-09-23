@@ -1,4 +1,4 @@
-# Go Project
+# Pong game in Go Language
 
 Learning go with gaming, thanks to [Games With Go](https://gameswithgo.org/). 
 
